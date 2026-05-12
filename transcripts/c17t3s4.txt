@@ -1,0 +1,19 @@
+Scientists believe that a majority of the earth's bird population migrate in some fashion or other. Some travel seasonally for relatively short distances, such as birds that move from higher to lower elevations in search of food. Others travel thousands of miles, crossing entire continents and oceans, to reach their destinations.
+
+But how do birds manage to navigate over such long distances? This question has fascinated scientists for centuries, and while we now know much more than we used to, there are still many aspects of bird migration that remain mysterious.
+
+One of the earliest theories about bird migration suggested that birds might use the sun to navigate. This idea was first proposed in the 1950s by Gustav Kramer, a German scientist. Kramer noticed that caged birds, when placed in a circular cage from which they could see the sky, would flutter in the direction they would normally migrate. He then used mirrors to change the apparent position of the sun, and found that the birds changed their direction accordingly. This suggested that birds have an internal clock that allows them to compensate for the movement of the sun across the sky.
+
+But what happens at night, when the sun isn't visible? It turns out that many birds migrate at night, and they use the stars to navigate. This was demonstrated by Franz and Eleanore Sauer in the late 1950s. They placed birds in a planetarium and found that the birds oriented themselves correctly when the artificial sky matched the real night sky. When the planetarium sky was rotated, the birds changed their direction accordingly. The Sauers found that the birds were using the pattern of stars, not any individual star, to determine their direction.
+
+But the sun and stars aren't the only navigational tools available to birds. It's now known that many birds can sense the Earth's magnetic field, and use this as a compass. This ability appears to be linked to tiny particles of magnetite, a magnetic mineral, found in the birds' beaks or brains. These particles essentially act as tiny compass needles, allowing the birds to determine north and south.
+
+Interestingly, some birds seem to use different navigational tools at different stages of their journeys. For example, young birds on their first migration seem to rely more heavily on their magnetic sense, while experienced birds use a combination of methods, including visual landmarks that they've learned on previous journeys.
+
+There's also evidence that birds use their sense of smell to navigate. This might sound surprising, but experiments with seabirds, in particular, have shown that they can recognise the smell of different parts of the ocean and use this information to find their way.
+
+Other factors that may play a role in navigation include infrasound — very low-frequency sounds that can travel long distances — and polarised light patterns in the sky, which are invisible to humans but can be detected by birds.
+
+Despite all this research, many questions remain. How do birds know when to start their migration? What tells them that it's time to return? And how do they manage to find the exact same nesting site year after year? These are just some of the questions that continue to intrigue scientists working in this field.
+
+The development of bird ringing, by a Danish schoolteacher, Hans Christian Cornelius Mortensen, in 1899, marked the beginning of systematic research into bird migration. By attaching small, individually numbered metal rings to the legs of birds, researchers could identify individual birds and track their movements. This technique, together with more recent technologies such as satellite tracking and radar, has provided us with a much clearer picture of the incredible journeys that birds undertake every year.
